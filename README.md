@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m @s3838maske<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Frontend developement<br>- 📫 reach me to mail : maskeshubham555@gmail.com
+- 👋 Hi, I’m @s3838maske<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Frontend developement<br>- 
+📫 reach me to: maskeshubham555@gmail.com
 
 
 ## 🌐 Socials:
